@@ -13,5 +13,5 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Nsan0303}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nsan0303
 )](https://github.com/anuraghazra/github-readme-stats)

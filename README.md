@@ -12,3 +12,6 @@
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/nsan0303?style=social">
     </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Nsan0303}
+)](https://github.com/anuraghazra/github-readme-stats)

@@ -8,4 +8,8 @@
   <a href="https://github.com/Nsan0303">
     <img height="20" src="https://img.shields.io/github/followers/nsan0303?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://www.twitch.tv/nsan0303">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/nsan0303?style=social">
+    </a>
+  
 </p>

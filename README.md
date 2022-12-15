@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@9323207a-35ec-4f7b-ad31-1f2f7ca5808f"><img src="https://wakatime.com/badge/user/9323207a-35ec-4f7b-ad31-1f2f7ca5808f.svg" alt="Total time coded since Aug 27 2022" /></a>
 <p align="left">
   <a href="https://github.com/nsan0303">
     <img src="https://komarev.com/ghpvc/?username=nsan0303" alt="nsan" />

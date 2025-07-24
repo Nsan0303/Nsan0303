@@ -1,3 +1,20 @@
+# 👋 Welcome
+
+This is a personal space for experimenting with code and learning new technologies.  
+Currently focused on Python, scripting, and basic web development.
+
+## 🛠️ Skills
+
+| Language / Tool       | Level            |
+|-----------------------|------------------|
+| Python                | Main language    |
+| HTML / CSS            | Basic usage      |
+| JavaScript            | Studying         |
+| Git / GitHub          | Beginner          |
+
+### All projects here are part of my personal learning journey.  
+
+
 <a href="https://wakatime.com/@9323207a-35ec-4f7b-ad31-1f2f7ca5808f"><img src="https://wakatime.com/badge/user/9323207a-35ec-4f7b-ad31-1f2f7ca5808f.svg" alt="Total time coded since Aug 27 2022" /></a>
 <p align="left">
   <a href="https://github.com/nsan0303">
